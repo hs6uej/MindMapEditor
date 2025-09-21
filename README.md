@@ -2,7 +2,8 @@
 
 โปรเจกต์เว็บแอปพลิเคชันสำหรับสร้างและจัดการ Mind Map ที่มีความยืดหยุ่นสูง สร้างด้วย React, Vite, และ TypeScript
 
-![Mind Map Editor Screenshot](xxx)
+![Mind Map Editor Screenshot](<img width="1903" height="920" alt="image" src="https://github.com/user-attachments/assets/19970f88-6f15-46f5-92fa-6e421c52293e" />
+)
 
 ## ✨ คุณสมบัติหลัก (Features)
 
