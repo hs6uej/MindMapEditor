@@ -73,3 +73,6 @@
 - **Real-time Collaboration:** ใช้ Backend (เช่น Firebase, Supabase) เพื่อให้ผู้ใช้หลายคนสามารถทำงานบนแผนผังเดียวกันได้พร้อมกัน
 - **Export to Image:** เพิ่มความสามารถในการส่งออกแผนผังเป็นไฟล์รูปภาพ (PNG, SVG)
 - **Re-implement Markdown Export:** พัฒนา Logic การส่งออกเป็น Markdown ใหม่ให้รองรับโครงสร้างข้อมูลแบบ Graph
+
+
+TRY --> https://quiet-caramel-1b3541.netlify.app/
